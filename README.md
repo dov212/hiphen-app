@@ -1,7 +1,7 @@
 # Hiphen App
 
 ## Overview
-Hiphen is a Flutter application designed for an ultra-local snacks delivery service. This app allows users to store and sell products to their neighbors, fostering a community-centric approach to snack delivery.
+Hiphen is a Flutter application designed for an ultra-local snack delivery service. This app allows users to store and sell products to their neighbors, fostering a community-centric approach to snack delivery.
 
 ## Portfolio Showcase
 This repository hosts a simplified version of the Hiphen app, intended for portfolio purposes. The project was developed for an independent contractor client who has graciously allowed its showcase on GitHub. The current (more complete) version of Hiphen is in beta.
